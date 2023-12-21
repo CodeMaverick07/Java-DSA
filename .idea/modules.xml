@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataStructures.iml" filepath="$PROJECT_DIR$/.idea/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 03/Lecture 03.iml" filepath="$PROJECT_DIR$/Lecture 03/Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 04_Java_Input/Lecture 04_Java_Input.iml" filepath="$PROJECT_DIR$/Lecture 04_Java_Input/Lecture 04_Java_Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 05_Operators/Lecture 05_Operators.iml" filepath="$PROJECT_DIR$/Lecture 05_Operators/Lecture 05_Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 06_Conditionals/Lecture 06_Conditionals.iml" filepath="$PROJECT_DIR$/Lecture 06_Conditionals/Lecture 06_Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 07_Loops/Lecture 07_Loops.iml" filepath="$PROJECT_DIR$/Lecture 07_Loops/Lecture 07_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 08_Loops_1/Lecture 08_Loops_1.iml" filepath="$PROJECT_DIR$/Lecture 08_Loops_1/Lecture 08_Loops_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 09_Loops_Patterns/Lecture 09_Loops_Patterns.iml" filepath="$PROJECT_DIR$/Lecture 09_Loops_Patterns/Lecture 09_Loops_Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 10_Number_System/Lecture 10_Number_System.iml" filepath="$PROJECT_DIR$/Lecture 10_Number_System/Lecture 10_Number_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 11 OOPs/Lecture 11 OOPs.iml" filepath="$PROJECT_DIR$/Lecture 11 OOPs/Lecture 11 OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 12 Methods Live/Lecture 12 Methods/Lecture 12 Methods.iml" filepath="$PROJECT_DIR$/Lecture 12 Methods Live/Lecture 12 Methods/Lecture 12 Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 12 Methods Live/Lecture 12 Methods Live.iml" filepath="$PROJECT_DIR$/Lecture 12 Methods Live/Lecture 12 Methods Live.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 13 Scope/Lecture 13 Scope.iml" filepath="$PROJECT_DIR$/Lecture 13 Scope/Lecture 13 Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 14_Arrays_1/Lecture 14_Arrays_1.iml" filepath="$PROJECT_DIR$/Lecture 14_Arrays_1/Lecture 14_Arrays_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 15 Arrays/Lecture 15 Arrays.iml" filepath="$PROJECT_DIR$/Lecture 15 Arrays/Lecture 15 Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 16 Arrays Problem Solving/Lecture 16 Arrays Problem Solving.iml" filepath="$PROJECT_DIR$/Lecture 16 Arrays Problem Solving/Lecture 16 Arrays Problem Solving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 17 Arrays - Miscenalleous Problems/Lecture 17 Arrays - Miscenalleous Problems.iml" filepath="$PROJECT_DIR$/Lecture 17 Arrays - Miscenalleous Problems/Lecture 17 Arrays - Miscenalleous Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 18 - Two Pointers/Lecture 18 - Two Pointers.iml" filepath="$PROJECT_DIR$/Lecture 18 - Two Pointers/Lecture 18 - Two Pointers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 19 - Prefix Sum/Lecture 19 - Prefix Sum.iml" filepath="$PROJECT_DIR$/Lecture 19 - Prefix Sum/Lecture 19 - Prefix Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 20 - 2D Arrays/Lecture 20 - 2D Arrays.iml" filepath="$PROJECT_DIR$/Lecture 20 - 2D Arrays/Lecture 20 - 2D Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 21 - 2D Arrays/Lecture 21 - 2D Arrays.iml" filepath="$PROJECT_DIR$/Lecture 21 - 2D Arrays/Lecture 21 - 2D Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 22/Lecture 22.iml" filepath="$PROJECT_DIR$/Lecture 22/Lecture 22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 23/Lecture 23.iml" filepath="$PROJECT_DIR$/Lecture 23/Lecture 23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 24 - Arraylist/Lecture 24 - Arraylist.iml" filepath="$PROJECT_DIR$/Lecture 24 - Arraylist/Lecture 24 - Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 25 - Time and Space Complexity/Lecture 25 - Time and Space Complexity.iml" filepath="$PROJECT_DIR$/Lecture 25 - Time and Space Complexity/Lecture 25 - Time and Space Complexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 27/Lecture 27.iml" filepath="$PROJECT_DIR$/Lecture 27/Lecture 27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 28 - Recursion PS1/Lecture 28 - Recursion PS1.iml" filepath="$PROJECT_DIR$/Lecture 28 - Recursion PS1/Lecture 28 - Recursion PS1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 29 - Recursion PS2/Lecture 29 - Recursion PS2.iml" filepath="$PROJECT_DIR$/Lecture 29 - Recursion PS2/Lecture 29 - Recursion PS2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 30 - Recursion PS3/Lecture 30 - Recursion PS3.iml" filepath="$PROJECT_DIR$/Lecture 30 - Recursion PS3/Lecture 30 - Recursion PS3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 31 - Recursion PS4 GCD/Lecture 31 - Recursion PS4 GCD.iml" filepath="$PROJECT_DIR$/Lecture 31 - Recursion PS4 GCD/Lecture 31 - Recursion PS4 GCD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 32 - Recursion PS5 - Arrays/Lecture 32 - Recursion PS5 - Arrays.iml" filepath="$PROJECT_DIR$/Lecture 32 - Recursion PS5 - Arrays/Lecture 32 - Recursion PS5 - Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 33 - Recursion PS6 - Arrays/Lecture 33 - Recursion PS6 - Arrays.iml" filepath="$PROJECT_DIR$/Lecture 33 - Recursion PS6 - Arrays/Lecture 33 - Recursion PS6 - Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 34 - Recursion PS7 - Strings/Lecture 34 - Recursion PS7 - Strings.iml" filepath="$PROJECT_DIR$/Lecture 34 - Recursion PS7 - Strings/Lecture 34 - Recursion PS7 - Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 35 - Recursion PS8 - Subsets Subsequences/Lecture 35 - Recursion PS8 - Subsets Subsequences.iml" filepath="$PROJECT_DIR$/Lecture 35 - Recursion PS8 - Subsets Subsequences/Lecture 35 - Recursion PS8 - Subsets Subsequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 36 - Recursion 9/Lecture 36 - Recursion 9.iml" filepath="$PROJECT_DIR$/Lecture 36 - Recursion 9/Lecture 36 - Recursion 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 37 - Bubble Sort/Lecture 37 - Bubble Sort.iml" filepath="$PROJECT_DIR$/Lecture 37 - Bubble Sort/Lecture 37 - Bubble Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 38 - Selection Sort/Lecture 38 - Selection Sort.iml" filepath="$PROJECT_DIR$/Lecture 38 - Selection Sort/Lecture 38 - Selection Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 39 - Insertion Sort/Lecture 39 - Insertion Sort.iml" filepath="$PROJECT_DIR$/Lecture 39 - Insertion Sort/Lecture 39 - Insertion Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 40/Lecture 40.iml" filepath="$PROJECT_DIR$/Lecture 40/Lecture 40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 41 - Merge Sort/Lecture 41 - Merge Sort.iml" filepath="$PROJECT_DIR$/Lecture 41 - Merge Sort/Lecture 41 - Merge Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 42 Quick Sort/Lecture 42 Quick Sort.iml" filepath="$PROJECT_DIR$/Lecture 42 Quick Sort/Lecture 42 Quick Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 43 Non-Comparison Sorting/Lecture 43 Non-Comparison Sorting.iml" filepath="$PROJECT_DIR$/Lecture 43 Non-Comparison Sorting/Lecture 43 Non-Comparison Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 44 Sorting Problems/Lecture 44 Sorting Problems.iml" filepath="$PROJECT_DIR$/Lecture 44 Sorting Problems/Lecture 44 Sorting Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 45 - Binary Search/Lecture 45 - Binary Search.iml" filepath="$PROJECT_DIR$/Lecture 45 - Binary Search/Lecture 45 - Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 46 Rotated Binary Search/Lecture 46 Rotated Binary Search.iml" filepath="$PROJECT_DIR$/Lecture 46 Rotated Binary Search/Lecture 46 Rotated Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Stacks/Stacks.iml" />
+    </modules>
+  </component>
+</project>
